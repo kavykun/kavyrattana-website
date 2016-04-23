@@ -1,0 +1,8 @@
+{
+  "name": "Kavy Rattana Portfolio",
+  "description": " A website for Kavy Rattana Portfolio",
+  "repository": "",
+  "logo": "",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
